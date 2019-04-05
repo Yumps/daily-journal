@@ -1,0 +1,22 @@
+.dailyJournal {
+  text-align: center;
+}
+#journalDate {
+  flex-shrink: inherit;
+  display: flex;
+}
+#conceptsCovered {
+  flex-direction: column;
+  display: flex;
+}
+#journalEntry {
+  flex-direction: column;
+  display: flex;
+}
+#moodSelector {
+  flex-direction: column;
+  display: flex;
+}
+.button {
+  align-items: center;
+}

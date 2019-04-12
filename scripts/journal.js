@@ -9,21 +9,14 @@ const objectsJournalEntry = {
   Mood: ""
 };
 
-const objectsJournalEntry = {
+const objectsJournalEntry2 = {
   Date: "",
   Concepts: "",
   LongConcepts: "",
   Mood: ""
 };
 
-const objectsJournalEntry = {
-  Date: "",
-  Concepts: "",
-  LongConcepts: "",
-  Mood: ""
-};
-
-const objectsJournalEntry = {
+const objectsJournalEntry3 = {
   Date: "",
   Concepts: "",
   LongConcepts: "",

@@ -1,5 +1,5 @@
 //all entries
-let journalEntries = [];
+const journalEntries = [];
 
 //standard layout
 const objectsJournalEntry = {
@@ -23,5 +23,9 @@ const objectsJournalEntry3 = {
   Mood: ""
 };
 
-journalEntries.push(objectsJournalEntry);
+journalEntries.push(
+  objectsJournalEntry,
+  objectsJournalEntry2,
+  objectsJournalEntry3
+);
 console.log(journalEntries);

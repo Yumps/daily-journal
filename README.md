@@ -1,5 +1,3 @@
-﻿# daily-journal
-
 # Daily Journal pt. 1
 Made basic display for daily journal.
 
